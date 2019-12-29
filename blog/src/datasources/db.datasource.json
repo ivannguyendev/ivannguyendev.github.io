@@ -1,0 +1,10 @@
+{
+  "name": "db",
+  "connector": "postgresql",
+  "url": "postgres://admin:admin@172.16.2.92/blog",
+  "host": "172.16.2.92",
+  "port": 5632,
+  "user": "admin",
+  "password": "admin",
+  "database": "blog"
+}
